@@ -1,2 +1,2 @@
 # calendar-angular
-variations in module calendata-angular
+variations in module calendar-angular
